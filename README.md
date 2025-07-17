@@ -13,7 +13,7 @@ Main Challange Page -
 JWT Challange Page - 
 ![3](https://github.com/user-attachments/assets/ca26dbba-ccb1-48af-89f5-ff0d317432ec)
 
-## 🌐 Ho![Uploading 2.jpg…]()
+## 🌐 Hosted Labs
 sted Labs
 
 ### 🔐 JWT Vulnerabilities
