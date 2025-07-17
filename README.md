@@ -80,13 +80,38 @@ sudo chmod 755 -r /var/www/html --> set permission
 sudo chown -R www-data:www-data /var/www/html --> set ownership 
 sudo service apache2 start --> start http server
 Access http://127.0.0.1:80
+```
 
 ## Lab Login
+```bash
 Username: admin
 password: password
+```
 
-🧑‍💻 Authors
+## 📬 Contact Me
 
-    Vishal Waghmare – GitHub / Website
+Feel free to reach out for collaborations, training, security projects, or just to connect!
 
-    Hackshala – YouTube
+### 📧 Email
+- [vishal@hacksudo.com](mailto:vishal@hacksudo.com)  
+- [info@hacksudo.com](mailto:info@hacksudo.com)
+
+### 📞 Phone
+- [+91 7666625280](tel:+917666625280)
+
+### 🌐 Website
+- [https://hacksudo.com](https://hacksudo.com)
+
+### 🌍 Social Media
+
+- [![GitHub](https://img.shields.io/badge/GitHub-hacksudo-black?logo=github)](https://github.com/hacksudo)
+- [![DockerHub](https://img.shields.io/badge/DockerHub-hacksudo-blue?logo=docker)](https://hub.docker.com/u/hacksudo)
+- [![Medium](https://img.shields.io/badge/Medium-hacksudo.medium.com-black?logo=medium)](https://hacksudo.medium.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-realvilu-blue?logo=linkedin)](https://www.linkedin.com/in/realvilu)
+- [![Instagram](https://img.shields.io/badge/Instagram-hacksudo-E4405F?logo=instagram)](https://instagram.com/hacksudo)
+
+## 🧑‍💻 Authors
+```bash
+@Vishal Waghmare 
+Hackshala – YouTube
+```
