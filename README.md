@@ -80,7 +80,8 @@ sudo chmod 755 -r /var/www/html --> set permission
 sudo chown -R www-data:www-data /var/www/html --> set ownership 
 sudo service apache2 start --> start http server
 Access http://127.0.0.1:80 
-
+Lab Login Username: admin
+          password: password
 🧑‍💻 Authors
 
     Vishal Waghmare – GitHub / Website
