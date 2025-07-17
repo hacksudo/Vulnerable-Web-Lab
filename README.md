@@ -71,14 +71,14 @@ Welcome to **Hacksudo Vulnerable Web Labs**, a purposely vulnerable PHP-based pl
 
 ### Installation
 ```bash
-git clone https://github.com/hacksudo/Vulnerable-Web-Lab.git --> Download image
+git clone https://github.com/hacksudo/Vulnerable-Web-Lab.git 
 cd Vulnerable-Web-Lab 
-sudo apt install apache2 --> install html serve 
-sudo rm -rf /var/www/html --> remove junk files
-sudo cp -r * /var/www/html/ --> copy paste our lab code 
-sudo chmod 755 -r /var/www/html --> set permission
-sudo chown -R www-data:www-data /var/www/html --> set ownership 
-sudo service apache2 start --> start http server
+sudo apt install apache2 
+sudo rm -rf /var/www/html 
+sudo cp -r * /var/www/html/ 
+sudo chmod 755 -r /var/www/html 
+sudo chown -R www-data:www-data /var/www/html 
+sudo service apache2 start 
 Access http://127.0.0.1:80
 ```
 
