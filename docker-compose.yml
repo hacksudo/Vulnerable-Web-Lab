@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  hacksudo-web-lab:
+    build: .
+    container_name: hacksudo_web_lab
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html
+    restart: always
