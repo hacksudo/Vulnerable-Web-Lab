@@ -5,6 +5,9 @@ Welcome to **Hacksudo Vulnerable Web Labs**, a purposely vulnerable PHP-based pl
 
 ---
 
+## 🔥 Exploit Flow
+![1](https://github.com/user-attachments/assets/0d407121-6e00-435c-a136-f08608b96f9f)
+
 ## 🌐 Hosted Labs
 
 ### 🔐 JWT Vulnerabilities
