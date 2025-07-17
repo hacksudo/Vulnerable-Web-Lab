@@ -54,10 +54,8 @@ Welcome to **Hacksudo Vulnerable Web Labs**, a purposely vulnerable PHP-based pl
 ## 🎯 Features
 
 - 🔒 JWT & API token manipulation scenarios
-- 📜 Flag-based CTF challenges
 - ⚙️ Realistic vulnerable code examples
 - 🎨 Hacker-themed UI (Green/Red on Black)
-- 📈 CTF Event Engine with scoreboard (optional)
 - 📂 Organized by category (web, jwt, api)
 - 🧪 Easily deployable on Apache/PHP server
 - 🧾 BurpSuite/PortSwigger compatible
