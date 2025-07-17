@@ -7,17 +7,20 @@ Welcome to **Hacksudo Vulnerable Web Labs**, a purposely vulnerable PHP-based pl
 
 ## 🔥 Exploit Flow
 Lab Tutorial  - 
+▶️ [Watch the JWT Vulnerability Lab Demo](https://www.youtube.com/watch?v=U12zXT-0uxY ) 
 
 Login Page
 ![1](https://github.com/user-attachments/assets/0d407121-6e00-435c-a136-f08608b96f9f)
+
 Main Challange Page - 
 ![2](https://github.com/user-attachments/assets/1381c9e1-c3e0-4f42-ab09-481d392335a9)
+
 JWT Challange Page - 
 ![3](https://github.com/user-attachments/assets/ca26dbba-ccb1-48af-89f5-ff0d317432ec)
 
-## 🌐 Hosted Labs
-sted Labs
-
+## 🌐 Hosted Labs 
+Sted Labs
+Topics which cover -
 ### 🔐 JWT Vulnerabilities
 
 | Lab # | Title                                  | Description                           |
